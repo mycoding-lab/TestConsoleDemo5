@@ -11,4 +11,8 @@ namespace TestConsoleDemo5
             Console.WriteLine("learning about branching " + DateTime.UtcNow);
         }
     }
+    public static void Method1()
+    {
+        Console.WriteLine("First commit");
+    }
 }
