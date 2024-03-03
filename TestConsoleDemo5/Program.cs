@@ -10,5 +10,20 @@ namespace TestConsoleDemo5
         {
             Console.WriteLine("learning about branching " + DateTime.UtcNow);
         }
+        public static void Method1()
+        {
+            Console.WriteLine("First commit");
+        }
+        public static void Method2()
+        {
+            Console.WriteLine("Dev branch First commit");
+        }
+
+        public static void Method3()
+        {
+            Console.WriteLine("Dev branch Second commit");
+        }
+
     }
+   
 }
