@@ -23,6 +23,10 @@ namespace TestConsoleDemo5
         {
             Console.WriteLine("Dev branch Second commit");
         }
+        public static void Method4()
+        {
+            Console.WriteLine("Dev branch third commit");
+        }
 
     }
    
