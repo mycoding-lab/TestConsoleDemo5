@@ -19,6 +19,11 @@ namespace TestConsoleDemo5
             Console.WriteLine("Dev branch First commit");
         }
 
+        public static void Method3()
+        {
+            Console.WriteLine("Dev branch Second commit");
+        }
+
     }
    
 }
